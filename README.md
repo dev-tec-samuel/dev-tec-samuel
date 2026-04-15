@@ -22,7 +22,7 @@
 - **Processos:** Expertise em regras de negócio para WMS, Inventário, Importação e Manufatura.
 
 ### 🏭 Domínio de Negócio
-Tenho vivência prática em transformar processos complexos de fábrica, armazém e despacho aduaneiro em código eficiente, focando sempre na integridade e performance do banco de dados (rodando localmente com pgAdmin).
+Tenho vivência prática em transformar processos complexos de fábrica, armazém e despacho aduaneiro em código eficiente, focando sempre na integridade e performance do banco de dados.
 
 ### ⚡ No tempo livre
 - 🏋️‍♂️ Treino de **Musculação** (foco em hipertrofia).
