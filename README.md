@@ -6,7 +6,7 @@
 
 ### 🚀 Atuação Profissional & Acadêmica
 - **Logística & WMS:** Atuação direta em squad focada em sistemas de inventário, gestão de estoques, **DUIMP (Declaração Única de Importação)** e fluxos de WMS.
-- **Estágio IV (Ciência da Computação):** Desenvolvendo um sistema completo para **controle de dados pessoais e financeiros de igrejas**.
+- **Estágio IV (Engenharia de Computação):** Desenvolvendo um sistema completo para **controle de dados pessoais e financeiros de igrejas**.
 - **Liderança:** Coordenador do **DROP [@soudropp](https://www.instagram.com/soudropp)**, liderando e engajando jovens da comunidade.
 
 ### 🛠️ Toolbox Técnica
